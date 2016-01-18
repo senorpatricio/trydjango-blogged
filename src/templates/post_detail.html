@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+<!-- this will change the title to the name of the blog post, with the name of the blog too -->
+{% block head_title %}
+	{{ instance.title }} | {{ block.super }}
+{% endblock head_title %} 
+
+{% block content %}
+<div class="col-sm-6 col-sm-offset-3">
+	{% if instance.image %}
+	<img src="{{ instance.image.url }}" alt="" class='img-responsive'>
+	{% endif %}
+	<h1>{{ title }}</h1>
+	
+	<!-- this shows instances of the object -->
+	{{ instance.title }}
+	{{ instance.content }} <br>
+	
+	{{ instance.timestamp }} <br>
+	{{ instance.updated }} <br>
+	{{ instance.id }} <br>
+</div>
+	
+{% endblock content %}
+
+

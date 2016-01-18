@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Question",
+				"QuestionAdmin"
+			],
+			[
+				"question",
+				"question_text	(detail.html)"
+			],
+			[
+				"ass",
+				"assertContains"
+			],
+			[
+				"polls",
+				"polls:detail"
+			],
+			[
+				"futur",
+				"future_question"
+			],
+			[
+				"futu",
+				"future_question"
+			],
+			[
+				"quest",
+				"questions"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"questio",
+				"question_text"
+			],
+			[
+				"question_",
+				"question_text	(results.html)"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"select",
+				"selected_choice"
+			],
+			[
+				"validate",
+				"validated_data"
+			],
+			[
+				"vali",
+				"validated_data"
+			],
+			[
+				"ST",
+				"STYLE_CHOICES	(models.py)"
+			],
+			[
+				"L",
+				"LANGUAGE_CHOICES	(models.py)"
+			],
+			[
+				"Langua",
+				"LANGUAGE_CHOICES"
+			],
+			[
+				"auto_n",
+				"auto_now_add"
+			],
+			[
+				"get_",
+				"get_all_styles"
+			],
+			[
+				"color",
+				"color:#fff	(index.html)"
+			],
+			[
+				"Rec",
+				"Recipe"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"rec",
+				"recipes	(recipeDetail.js)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ingredie",
+				"ingredients	(recipe-detail.html)"
+			],
+			[
+				"inge",
+				"ingredients"
+			],
+			[
+				"remo",
+				"removeIngredientFromRecipe	(recipe-detail.html)"
+			],
+			[
+				"recip",
+				"recipeId"
+			],
+			[
+				"$route",
+				"$routeParams"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS"
+			],
+			[
+				"Recip",
+				"RecipeSerializer"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"email",
+				"EmailFactory"
+			],
+			[
+				"$rou",
+				"$routeParams"
+			],
+			[
+				"Email",
+				"EmailFactory"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"servi",
+				"serviceWorker"
+			],
+			[
+				"profile",
+				"profileCtrl"
+			],
+			[
+				"login",
+				"loginObj"
+			],
+			[
+				"fireba",
+				"firebaseObj"
+			],
+			[
+				"$fireba",
+				"$firebaseAuth"
+			],
+			[
+				"firebase",
+				"firebaseio"
+			],
+			[
+				"fire",
+				"firebaseObj"
+			],
+			[
+				"post",
+				"postToUpdate"
+			],
+			[
+				"firebas",
+				"firebaseObj	(register.js)"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cover",
+				"cover"
+			],
+			[
+				"absolu",
+				"absolutely_you	(index.html)"
+			],
+			[
+				"prod",
+				"prod"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"LIST",
+				"list-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"dark",
+				"darkgray"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"dar",
+				"darkgray"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"arrow",
+				"arrows	(_base.scss)"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"He",
+				"HelveticaNeueLTStd	(_base.scss)"
+			],
+			[
+				"bag",
+				"background-image"
+			],
+			[
+				"H",
+				"HelveticaNeueLTStd	(_base.scss)"
+			],
+			[
+				"res",
+				"results	(_results.scss)"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"impot",
+				"@import	@import url(${0});"
+			],
+			[
+				"impo",
+				"@import	@import url(${0});"
+			],
+			[
+				"po",
+				"portrait	(_variables.scss)"
+			],
+			[
+				"lm",
+				"lMenuWrapper"
+			],
+			[
+				"phone",
+				"phonelandscape	(_header.scss)"
+			],
+			[
+				"st",
+				"styling"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"before",
+				"beforeafter"
+			],
+			[
+				"st1",
+				"st1"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"bubble-a",
+				"bubble-animate"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"siz",
+				"background-size"
+			],
+			[
+				"langua",
+				"languageSelect"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lan",
+				"languageSelect"
+			],
+			[
+				"image",
+				"imageafter	(index.html)"
+			],
+			[
+				"bef",
+				"beforeafter	(index.html)"
+			],
+			[
+				"im",
+				"img	(_base.scss)"
+			],
+			[
+				"rela",
+				"relative	(_base.scss)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"re",
+				"regular-font"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"li",
+				"light-font"
+			],
+			[
+				"all",
+				"allFrigganFiles	(gulpfile.js)"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"_",
+				"_/img/CARDIEL	(index.html)"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dev",
+				"dev/js	(gulpfile.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/templates/admin/base_site.html",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/admin.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/models.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/mysite/settings.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/templates/polls/index.html",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/templates/polls/detail.html",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/static/polls/styles.css",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/templates/polls/results.html",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/urls.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/views.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/tests.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/static/images/background.gif",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/mysite/urls.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/polls/apps.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/mysite/mysite/__init__.py",
+		"/Users/patrickharding/Desktop/patrick/REST-tut/tutorial/tutorial/serializers.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/requirements.txt",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/urls.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/serializers.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/recipe_organizer/settings.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/recipe_organizer/urls.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/models.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/add-recipe/addRecipe.js",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/add-recipe/add-recipe.html",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/recipe-detail/recipe-detail.html",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/index.html",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/recipes/recipes.html",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/recipe-detail/recipeDetail.js",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/views.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/admin.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/app.css",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/app.js",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/recipes/recipes.js",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/package.json",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/frontend/app/view1/view1.js",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/.gitignore",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/recipe_organizer/__init__.py",
+		"/Users/patrickharding/Desktop/patrick/recipe-organizer2/backend/apps/recipes/__init__.py",
+		"/Users/patrickharding/Desktop/patrick/angularTest/gmail-client/angular-seed/app/app.css",
+		"/Users/patrickharding/Desktop/patrick/angularTest/gmail-client/angular-seed/app/emails.json",
+		"/Users/patrickharding/Library/Application Support/Sublime Text 2/Packages/User/AngularJS-completions.sublime-settings",
+		"/Users/patrickharding/Desktop/patrick/angularTest/angular-fun/angular-seed/app/app.js",
+		"/Users/patrickharding/Library/Application Support/Sublime Text 2/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/Users/patrickharding/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/patrickharding/Desktop/patrick/airhorn/airhorn/app/scripts/sw.js",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/blog.css",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/spin.min.js",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/ladda.min.js",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/ladda-themeless.min.css",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/home/home.js",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/welcome/welcome.html",
+		"/Users/patrickharding/Desktop/patrick/angularTest/AngularJS_Firebase_Part1-master/app/register/register.html",
+		"/Users/patrickharding/Desktop/patrick/portfolio/css/main.css",
+		"/Users/patrickharding/Desktop/patrick/portfolio/css/grayscale.css",
+		"/Users/patrickharding/Desktop/patrick/portfolio/index.html",
+		"/Users/patrickharding/Desktop/patrick/jquerytut/jquerytut.html",
+		"/Users/patrickharding/Desktop/patrick/jsTests/main.js",
+		"/Users/patrickharding/Desktop/patrick/jsTests/main.css",
+		"/Users/patrickharding/Desktop/patrick/jsTests/index.html",
+		"/Users/patrickharding/Desktop/patrick/gifff/main.css",
+		"/Users/patrickharding/Desktop/patrick/gifff/index.html",
+		"/Users/patrickharding/Desktop/patrick/portfolio/css/bootstrap.css",
+		"/Users/patrickharding/Desktop/patrick/portfolio/js/main.js",
+		"/Users/patrickharding/Desktop/play site/index.html",
+		"/Users/patrickharding/Desktop/play site/js/main.js",
+		"/Users/patrickharding/Desktop/play site/css/main.css",
+		"/Users/patrickharding/Documents/OneDrive/scss media queries/_mobile-phones.scss",
+		"/Users/patrickharding/Documents/OneDrive/scss media queries/_laptopdesktop.scss",
+		"/Users/patrickharding/Documents/dev/xOffice/dev/js/main.js",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/helpers/_variables.scss",
+		"/Users/patrickharding/Documents/jstesting.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/difference.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/brightener.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/index.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/meet_the_rep.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/pages/_brightenerpage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/layout/_home-brightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/layout/_home-tightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/js/_header.js",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/main.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/_base.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/results.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/tightener.html",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/layout/_footer.scss",
+		"/Users/patrickharding/Documents/dev/jouve site2/dev/scss/pages/_tightenerpage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/layout/_home-brightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_meetreppage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_difference.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_tightenerpage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_results.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/layout/_header.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_base.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/layout/_photogrid.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_brightenerpage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/main.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/layout/_home-tightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/meet_the_rep.html",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/layout/_footer.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_shoppage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/shop.html",
+		"/Users/patrickharding/Documents/dev/jouve site/join.html",
+		"/Users/patrickharding/Documents/dev/jouve site/brightener.html",
+		"/Users/patrickharding/Documents/dev/jouve site/tightener.html",
+		"/Users/patrickharding/Documents/dev/jouve site/difference.html",
+		"/Users/patrickharding/Documents/dev/jouve site/results.html",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/pages/_joinpage.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/helpers/_variables.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/index.html",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/components/_arrows.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/_/icons/language_select.svg",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_variables.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/gulpfile.js",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/components/_scroll-to-top-button.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_photogrid.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_footer.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_brightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_header.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_tightener.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/js/_header.js",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_fonts.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_mixins.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/_/icons/language_select1.svg",
+		"/Users/patrickharding/Documents/dev/jouve site/_/img/optimised.svg",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_settings.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/node_modules/foundation/docs/css/_settings.scss",
+		"/Users/patrickharding/Documents/dev/jouve site/dev/scss/_swiper.scss",
+		"/Users/patrickharding/Desktop/jouve-site/sass/partials/index.html",
+		"/Users/patrickharding/Documents/dev/jouve-site/stylesheets/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/patrickharding/Desktop/patrick/recipe-organizer2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"8001",
+			"8000",
+			"}",
+			"background-ima",
+			"Blogged",
+			"');\n",
+			"background:",
+			"about",
+			"font-we",
+			"font-fa",
+			"data",
+			"navbar",
+			"plus1",
+			"img",
+			"arrow",
+			";\n",
+			"true",
+			"true_you",
+			"arrow",
+			"overf",
+			"ariix",
+			"absol",
+			"hide-pr",
+			"pslider",
+			"brightener",
+			"tight",
+			"ion productSlider() {\n        if (pSlider.classList.contains('opened')) {\n          pSlider.classList.remove('opened');\n          pSlider.classList.add('closed');\n        } else {\n          pSlider.classList.remove('closed');\n          pSlider.classList.add('opened');\n        }\n      }\n      var product = document.getElementById('prod-toggle');\n      var pSlider = document.querySelector('.pSlider');\n\n      product.a",
+			"prod",
+			"jpg",
+			"jp",
+			"after",
+			"slide1",
+			"before-top",
+			"before-grid",
+			"before-top",
+			"before-gr",
+			"big-sl",
+			"style=",
+			"100px",
+			"slider1",
+			"430",
+			";\n",
+			"before-after",
+			"swiper-con",
+			"fancy",
+			"jpg",
+			"70",
+			"70%",
+			"1440",
+			"border",
+			"1025",
+			") ",
+			"overla",
+			"767",
+			"language",
+			"lnav",
+			";\n",
+			"arro",
+			"lnavi",
+			"navi",
+			"nav",
+			";\n",
+			"ul",
+			"img",
+			"plus1",
+			"plus",
+			"plus1",
+			"jouv",
+			"lightbo",
+			"%;\n",
+			"light",
+			"lightbox",
+			"light",
+			"join at",
+			">\n",
+			"language-tog",
+			"language-ico",
+			"language-tog",
+			"language-icon",
+			"language-togg",
+			"language-icon",
+			"language-togg",
+			"language-icon",
+			"drop",
+			"1025px",
+			"hidd",
+			"header",
+			"gradi",
+			";\n",
+			"slider",
+			"dlm",
+			"active",
+			"before-after",
+			"icons",
+			"container",
+			"navi",
+			"75px",
+			"75",
+			"margin",
+			"1024",
+			"@import \"tightener\";",
+			"arro",
+			"up",
+			"overlay",
+			"landscape",
+			"fff",
+			"#937367",
+			"#d6a385",
+			"#",
+			"fff",
+			"d8d8d8",
+			"d6a385",
+			"937367",
+			"navigation",
+			";\n",
+			"z-ind",
+			"swiper-button",
+			"<a id=\"language-toggle\" id=\"lMenu\" href=\"#\"><img id=\"language-icon\" src=\"_/icons/language_select.svg\" alt=\"\">",
+			"language-",
+			"st3",
+			"Lt",
+			"menu",
+			"%;\n",
+			"JOUV",
+			"back",
+			"border",
+			"tightener",
+			"border"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}
