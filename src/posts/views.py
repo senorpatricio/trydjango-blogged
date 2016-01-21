@@ -1,6 +1,7 @@
 from urllib import quote_plus
 from django.contrib import messages
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.db.models import Q
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.shortcuts import render, get_object_or_404, redirect
 from django.utils import timezone
@@ -34,6 +35,9 @@ def post_create(request):
 def post_detail(request, id=None):
     # instance = Post.objects.get(id=1)
     instance = get_object_or_404(Post, id=id)
+    if instance.draft or instance.publish > timezone.now().date() or instance.draft:        
+        if not request.user.is_staff or not request.user.is_superuser: 
+            raise Http404
     share_string = quote_plus(instance.content)
     context = {
         "title": instance.title,
@@ -43,7 +47,16 @@ def post_detail(request, id=None):
     return render(request, "post_detail.html", context)
 
 def post_list(request):
-    queryset_list = Post.objects.filter(draft=False).filter(publish__lte=timezone.now()).order_by("-timestamp") #.all()  this will order it by newes
+    queryset_list = Post.objects.active().order_by("-timestamp")  # .filter(draft=False).filter(publish__lte=timezone.now()) 
+
+    query = request.GET.get('q')
+    if query: 
+        queryset_list = queryset_list.filter(
+            Q(title__icontains=query)|
+            Q(content__icontains=query)|
+            Q(user__first_name__icontains=query)|
+            Q(user__last_name__icontains=query)
+            ).distinct()
     paginator = Paginator(queryset_list, 5) # Show 5 objects per page
     # page_request_var = "abc"
     page = request.GET.get('page')

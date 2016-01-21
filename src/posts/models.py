@@ -4,10 +4,15 @@ from django.conf import settings
 from django.db import models
 from django.core.urlresolvers import reverse
 from django.db.models.signals import pre_save
+from django.utils import timezone
 
 from django.utils.text import slugify
 # Create your models here.
 
+# Post.objects.all() is a model manager
+class PostManager(models.Manager):
+    def active(self, *args, **kwargs):
+        return super(PostManager, self).filter(draft=False).filter(publish__lte=timezone.now())
 
 def upload_location(instance, filename):
     return "%s/%s" %(instance.id, filename) # this is to specify an upload location i.e. user
@@ -22,6 +27,8 @@ class Post(models.Model):
     publish = models.DateField(auto_now=False, auto_now_add=False)
     update = models.DateTimeField(auto_now=True, auto_now_add=False)
     timestamp = models.DateTimeField(auto_now=False, auto_now_add=True)
+
+    objects = PostManager()
     #there are many types of fields. reference on docs.djangoproject.com
 
     def __unicode__(self):
